@@ -1,6 +1,6 @@
 name = "hackernews"
 type = "javascript"
-account_id = "bec77b03b1fb3338a921fd1c11a97aaa"
+account_id = "021058b6c0c0f10cadb9cb65ac74ac2e"
 workers_dev = true
 route = ""
 zone_id = ""
